@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Student"
+  company = "Max Planck Institute for Psycholinguistics"
+  company_url = "https://www.mpi.nl"
+  location = "Nijmegen, The Netherlands"
+  date_start = "2016-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Project development
+  * Experimental design
+  * Data collection and analysis
+  * Presenting work in conferences and publications
+  * Teaching
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+# [[experience]]
+#   title = "Graduate Research Assistant"
+#   company = "University of Reading"
+#   location = "Reading, UK"
+#   date_start = "2016-04-01"
+#   date_end = "2016-05-31"
+#   description = """Assisted in two studies, one looking at prospective memory using EEG and one on the production of narratives by bilingual children."""
+  
+# [[experience]]
+#   title = "Research Assistant"
+#   company = "University of Reading"
+#   location = "Reading, UK"
+#   date_start = "2015-02-01"
+#   date_end = "2015-05-31"
+#   description = """Conducted research on ambiguity resolution using behavioural and eye-tracking methods."""
 
 +++
