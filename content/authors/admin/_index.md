@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -56,9 +56,9 @@ social:
   link: https://github.com/eirini-zormpa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Eirini Zormpa is a Graduate Researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, The Netherlands. Her research focuses on the factors that affect what people remember from conversations. She uses behavioural measures and eye-tracking in her work. Eirini is also passionate about open science and reproducibility and is an active member in the Open Science Community Nijmegen and the R-Ladies Nijmegen chapter.
+Eirini Zormpa is a PhD Student at the Max Planck Institute for Psycholinguistics in Nijmegen, The Netherlands. Her research focuses on the factors that affect what people remember from conversations. She uses behavioural measures and eye-tracking in her work. Eirini is also passionate about open science and reproducibility and is an active member in the Open Science Community Nijmegen and the R-Ladies Nijmegen chapter.
