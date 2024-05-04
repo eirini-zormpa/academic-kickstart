@@ -15,14 +15,15 @@ publication_types:
 - "2"
 summary: Linguistic focus, modulated by questions, improves recognition memory above and beyond serial position in one- and two-person experiments.
 tags:
-- word production
-- long-term memory
-- generation effect
-- processing time
+- focus
+- question–answer pairs
+- recognition memory
+- dialogue
+- production effect
 title: In conversation, answers are remembered better than the questions themselves
 url_code: "https://osf.io/y7seu/"
 url_dataset: "https://osf.io/y7seu/"
-url_pdf: https://pure.mpg.de/rest/items/item_3555860_3/component/file_3558443/content
+url_pdf: "https://pure.mpg.de/rest/items/item_3555860_3/component/file_3558443/content"
 url_poster: "https://osf.io/y7seu/"
 url_project: ""
 url_slides: ""
